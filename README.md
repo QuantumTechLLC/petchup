@@ -1,1 +1,1 @@
-# petchup
+# petchup app
